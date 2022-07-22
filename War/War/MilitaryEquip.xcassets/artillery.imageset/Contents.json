@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "howitzer-artillery-simple-icon-web-mobile-devices-howitzer-artillery-simple-icon-125245655.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "template-rendering-intent" : "original"
+  }
+}
